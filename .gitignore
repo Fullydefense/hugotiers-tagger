@@ -1,0 +1,9 @@
+build/
+.gradle/
+run/
+*.classpath
+.idea/
+*.iml
+dist/
+gradle.properties.bak
+gp.bak

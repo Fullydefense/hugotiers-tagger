@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "hugotiers-tagger",
+  "version": "${version}",
+  "name": "HUGOTiers Tagger",
+  "description": "Zeigt HTier-Ränge (LT5–HT1) neben Spieler-Nametags. Liest ausschliesslich die öffentliche read-only API.",
+  "icon": "assets/hugotiers/icon.png",
+  "license": "MIT",
+  "contact": {
+    "homepage": "https://hugotiers.net"
+  },
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.hugotiers.tagger.HugoTiersClient"
+    ],
+    "modmenu": [
+      "net.hugotiers.tagger.gui.HugoTiersModMenu"
+    ]
+  },
+  "mixins": [
+    "hugotiers.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=1.21.11 <1.22",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

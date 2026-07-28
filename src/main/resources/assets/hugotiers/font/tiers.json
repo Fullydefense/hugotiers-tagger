@@ -1,0 +1,18 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hugotiers:font/tiers.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "ABCDEF",
+        "GHIJKL",
+        "MNOPQR",
+        "STUVWX",
+        "YZ0123",
+        "456789"
+      ]
+    }
+  ]
+}

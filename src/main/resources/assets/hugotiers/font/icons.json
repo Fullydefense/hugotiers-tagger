@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "hugotiers:font/cavekit.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hugotiers:font/crystalfight.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hugotiers:font/macefight.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "\ue002"
+      ]
+    }
+  ]
+}

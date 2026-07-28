@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.hugotiers.tagger.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LabelCommandRendererMixin",
+    "PlayerDisplayNameMixin",
+    "PlayerEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

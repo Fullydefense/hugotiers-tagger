@@ -1,0 +1,29 @@
+{
+  "key.category.hugotiers.main": "HUGOTiers Tagger",
+  "key.hugotiers.open_settings": "Einstellungen öffnen",
+
+  "hugotiers.config.title": "HUGOTiers Tagger — Einstellungen",
+
+  "hugotiers.config.enabled": "Tier-Plaketten anzeigen",
+  "hugotiers.config.enabled.tooltip": "Zeigt den Rang neben Spieler-Nametags. Aus blendet alles aus, was die Mod hinzufügt.",
+
+  "hugotiers.config.rainbow": "Rainbow-Rahmen",
+  "hugotiers.config.rainbow.tooltip": "Animierter, farbwechselnder Rahmen um die Plakette.",
+
+  "hugotiers.config.mode": "Angezeigte Kits",
+  "hugotiers.config.mode.all": "Alle Kits",
+  "hugotiers.config.mode.all.tooltip": "Zeigt jedes Kit, in dem der Spieler getestet wurde.",
+  "hugotiers.config.mode.cavekit": "Nur Cave",
+  "hugotiers.config.mode.cavekit.tooltip": "Zeigt nur den Cave-Rang. Spieler ohne diesen Rang bekommen keine Plakette.",
+  "hugotiers.config.mode.crystalfight": "Nur Crystal",
+  "hugotiers.config.mode.crystalfight.tooltip": "Zeigt nur den Crystal-Rang. Spieler ohne diesen Rang bekommen keine Plakette.",
+  "hugotiers.config.mode.macefight": "Nur Mace",
+  "hugotiers.config.mode.macefight.tooltip": "Zeigt nur den Mace-Rang. Spieler ohne diesen Rang bekommen keine Plakette.",
+
+  "hugotiers.config.ttl": "Aktualisierung",
+  "hugotiers.config.ttl.value": "%s s",
+  "hugotiers.config.ttl.tooltip": "Wie lange ein abgefragter Rang wiederverwendet wird, bevor er neu geladen wird.",
+
+  "hugotiers.config.api": "API-Adresse",
+  "hugotiers.config.api.tooltip": "Vollständige Adresse inklusive https://. Wird rot, solange sie unbrauchbar ist — eine ungültige Adresse wird verworfen statt gespeichert."
+}

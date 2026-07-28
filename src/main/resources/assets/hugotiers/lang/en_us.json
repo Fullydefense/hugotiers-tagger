@@ -1,0 +1,29 @@
+{
+  "key.category.hugotiers.main": "HUGOTiers Tagger",
+  "key.hugotiers.open_settings": "Open settings",
+
+  "hugotiers.config.title": "HUGOTiers Tagger Settings",
+
+  "hugotiers.config.enabled": "Show tier badges",
+  "hugotiers.config.enabled.tooltip": "Draws the rank next to player nametags. Turning this off hides everything the mod adds.",
+
+  "hugotiers.config.rainbow": "Rainbow outline",
+  "hugotiers.config.rainbow.tooltip": "Animated colour-cycling outline around the badge.",
+
+  "hugotiers.config.mode": "Kits shown",
+  "hugotiers.config.mode.all": "All kits",
+  "hugotiers.config.mode.all.tooltip": "Shows every kit the player has been tested in.",
+  "hugotiers.config.mode.cavekit": "Cave only",
+  "hugotiers.config.mode.cavekit.tooltip": "Shows only the Cave rank. Players without one get no badge.",
+  "hugotiers.config.mode.crystalfight": "Crystal only",
+  "hugotiers.config.mode.crystalfight.tooltip": "Shows only the Crystal rank. Players without one get no badge.",
+  "hugotiers.config.mode.macefight": "Mace only",
+  "hugotiers.config.mode.macefight.tooltip": "Shows only the Mace rank. Players without one get no badge.",
+
+  "hugotiers.config.ttl": "Refresh interval",
+  "hugotiers.config.ttl.value": "%s s",
+  "hugotiers.config.ttl.tooltip": "How long a looked-up rank is reused before it is fetched again.",
+
+  "hugotiers.config.api": "API address",
+  "hugotiers.config.api.tooltip": "Full address including https://. Turns red while unusable — an invalid address is discarded instead of saved."
+}
